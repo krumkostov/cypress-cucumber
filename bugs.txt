@@ -1,0 +1,33 @@
+ID: Framer-001
+Title: FAQ Section Default Question Opened
+
+Author: Krum Kostov
+
+Environment:
+- OS: Windows 10 Professional
+- Browser: Chrome Version 131.0.6778.86 (Official Build) (64-bit)
+
+Description:
+Upon navigating to the FAQ section on the Components page of the Framer site, one of the questions is displayed as default open instead of all questions being closed.
+
+Steps to Reproduce:
+1. Open Chrome browser.
+2. Navigate to the Framer page: https://mind-wend-913065.framer.app/
+3. Click on the "Components" button to navigate to the Components page.
+4. "Components" page has to be visible. Scroll down to the FAQ section.
+
+Expected Result:
+All four FAQ comments should be displayed as closed by default.
+
+Actual Result:
+One of the FAQ comments is displayed as open by default.
+
+Attachments:
+- Screenshot of the FAQ section with the default open question (The free perion in browserStack is closed. I can't upload the picture).
+
+
+Priority: Medium
+Severity: Minor
+
+Additional Information:
+This issue may confuse users, as they expect all FAQ sections to be closed by default for a cleaner user experience.
